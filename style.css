@@ -1,0 +1,128 @@
+.header {
+    position: relative;
+    padding: 20px;
+    border: 5px solid #5AB2FF;
+    background: #CAF4FF;
+}
+
+.header h1 {
+    position: absolute;
+    font-size: 400%;
+    top: 30%;
+    left: 37%;
+}
+
+.sub-header {
+    position: relative;
+    padding: 30px;
+    margin-bottom: 20%;
+}
+
+.header-box {
+    position: absolute;
+    width: 20%;
+    top: 50%;
+}
+
+.header img {
+    width: 80%;
+}
+
+.main-box {
+    position: relative;
+    border: 5px solid #5AB2FF;
+    padding: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.main-box img {
+    width: 100%;
+}
+
+.sub-box {
+    position: relative;
+    padding: 30px;
+    margin-bottom: 27%;
+}
+
+.box1 {
+    position: absolute;
+    width: 15%;
+    top: 0;
+    left: 5%;
+    text-align: center;
+}
+
+
+.box2 {
+    position: absolute;
+    width: 15%;
+    top: 0;
+    left: 42.5%;
+    text-align: center;
+}
+
+.box3 {
+    position: absolute;
+    width: 15%;
+    top: 0;
+    left: 80%;
+    text-align: center;
+}
+
+.header2 {
+    position: relative;
+    padding: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #CAF4FF;
+    border: 5px solid #5AB2FF;
+    text-align: center;
+}
+
+.main-box2 {
+    position: relative;
+    border: 5px solid #5AB2FF;
+    padding: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.main-box2 img {
+    width: 50%;
+}
+
+.sub-box2 {
+    position: relative;
+    padding: 30px;
+    margin-bottom: 27%;
+}
+
+.boxpic1 {
+    position: absolute;
+    width: 60%;
+    top: 0;
+    left: 0;
+    text-align: left;
+}
+
+.boxpic2 {
+    position: absolute;
+    width: 40%;
+    text-align: right;
+    top: 0;
+    right: 0;
+}
+
+.footer {
+    position: relative;
+    padding: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #CAF4FF;
+    border: 5px solid #5AB2FF;
+    text-align: center;
+}
